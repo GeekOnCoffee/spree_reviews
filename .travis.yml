@@ -1,0 +1,2 @@
+before_script: bundle exec rake common_test_app
+	
